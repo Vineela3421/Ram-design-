@@ -23,6 +23,7 @@ This is my task-2 from codtech internship. In this I wrote verilog code for 16x8
 - RAM.v — design code
 - RAM_tb.v — testbench code
 - ram.vcd — waveform file (generated after running)
+- eda playground link 🔗
 
 ## How I ran it
 
